@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kfclts/reactDemo-1/static/css/main.94762fb9.chunk.css",
+    "main.js": "/kfclts/reactDemo-1/static/js/main.808b2b06.chunk.js",
+    "main.js.map": "/kfclts/reactDemo-1/static/js/main.808b2b06.chunk.js.map",
+    "runtime-main.js": "/kfclts/reactDemo-1/static/js/runtime-main.fdec4c8a.js",
+    "runtime-main.js.map": "/kfclts/reactDemo-1/static/js/runtime-main.fdec4c8a.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/kfclts/reactDemo-1/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.599172b0.chunk.js": "/kfclts/reactDemo-1/static/js/2.599172b0.chunk.js",
+    "static/js/2.599172b0.chunk.js.map": "/kfclts/reactDemo-1/static/js/2.599172b0.chunk.js.map",
+    "index.html": "/kfclts/reactDemo-1/index.html",
+    "precache-manifest.b9a9af6c42181c78419070e21cbf1f1b.js": "/kfclts/reactDemo-1/precache-manifest.b9a9af6c42181c78419070e21cbf1f1b.js",
+    "service-worker.js": "/kfclts/reactDemo-1/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/kfclts/reactDemo-1/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.94762fb9.chunk.css.map": "/kfclts/reactDemo-1/static/css/main.94762fb9.chunk.css.map",
+    "static/js/2.599172b0.chunk.js.LICENSE.txt": "/kfclts/reactDemo-1/static/js/2.599172b0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/kfclts/reactDemo-1/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdec4c8a.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.599172b0.chunk.js",
+    "static/css/main.94762fb9.chunk.css",
+    "static/js/main.808b2b06.chunk.js"
+  ]
+}
